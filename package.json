@@ -1,8 +1,8 @@
 {
-  "name": "simplepackage",
-  "version": "1.0.0",
+  "name": "devcanoe-simplepackage",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/maceteligolden/simplepackage.git"
