@@ -1,0 +1,8 @@
+# Ignore source files and development-related files
+**/*.ts
+**/*.tsx
+__tests__
+node_modules
+tsconfig.json
+package-lock.json
+jest.config.js
